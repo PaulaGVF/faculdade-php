@@ -1,0 +1,79 @@
+body
+{
+	background-color: black;
+	margin: 0px;
+	padding: 0px;
+	font-family: calibri;
+	font-size:15px;
+}
+
+input {
+	font-family: calibri;
+	font-size: 12px;
+	color: white;
+	background-color: #303030;
+	border: 0px;
+	padding: 5px;
+}
+
+td{
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+.cab {
+	font-family: calibri;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+	width: 800px;
+	height: 80px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a
+{ 
+	color:white;
+}
+
+table
+{
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.trpar
+{
+	background-color: #FFFFFF;
+	color: #303030;
+}
+
+.trimpar
+{
+	background-color: #E0E0FF;
+	color: #101010;
+}
+
+.conteudo {
+	background-color: white;
+	width: 780px;
+	padding: 10px;
+	margin-right: auto;
+	margin-left: auto;	
+	font-family: calibri;
+	font-size: 15px;
+}
+
+.confirma
+{
+	background-color: navy;
+	width: 100px;
+	height: 20px;
+	text-align: center;
+}
+
+.confirma:hover
+{
+	background-color: red;
+}
